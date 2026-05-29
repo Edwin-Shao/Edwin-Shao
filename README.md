@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edwin-Shao, welcome my space.
+- 👋 Hi, I’m @Edwin-Shao, a common boy.
 
 <!---
 Edwin-Shao/Edwin-Shao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
