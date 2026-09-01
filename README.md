@@ -2,6 +2,10 @@
 
 I am a MRes student in Mechanical Engineering at the University of Nottingham Ningbo China, my research focuses on aerial robotics and control theory.
 
+<!-- status:start -->
+📍 Ningbo, China · syncing local time and weather...
+<!-- status:end -->
+
 
 <!---
 Edwin-Shao/Edwin-Shao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
