@@ -3,7 +3,7 @@
 I am a MRes student in Mechanical Engineering at the University of Nottingham Ningbo China, my research focuses on aerial robotics and control theory.
 
 <!-- status:start -->
-📍 Ningbo, China · 19:28 CST · ☀️ +51°F
+📍 Ningbo, China · 03:43 CST · ☁️ +48°F
 <!-- status:end -->
 
 
